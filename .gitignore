@@ -1,0 +1,45 @@
+# Operating System Files
+*.DS_Store
+Thumbs.db
+
+# Node / Frontend Build Files
+node_modules/
+dist/
+build/
+.env
+.env.*
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# Log Files
+*.log
+logs/
+
+# Testing Files
+.pytest_cache/
+
+# OS Generated Files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Specific to Web Design Showcase Template (HTML/CSS/JS)
+# Assuming no complex build tools for a static template.
+# Add any generated CSS/JS files if a build process is introduced later.
